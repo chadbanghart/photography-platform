@@ -1,3 +1,9 @@
+# MERN-Stack Infrastructure
+
+Clone this repo to provide the started code for a future MERN-Stack Project
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
